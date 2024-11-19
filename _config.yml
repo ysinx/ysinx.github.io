@@ -1,29 +1,29 @@
-title: Your awesome title
+title: 我的世界
 author: GitHub User
-email: your-email@domain.com
+email: whatalittleboy@protonmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
+  feedId:81695876082923520+userId:66751810261381120.Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ysinx
+github_username:  ysinx
 rss: rss
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-# linkedin_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
+# dribbble_username: ysinx
+# facebook_username: ysinx
+# flickr_username: ysinx
+# instagram_username: ysinx
+# linkedin_username: ysinx
+# pinterest_username: ysinx
+# youtube_username: ysinx
+# googleplus_username: ysinx
 
 # Mastodon instances
 # mastodon:
-# - username: jekyll
+# - username: ysinx
 #   instance: example.com
-# - username: jekyll2
+# - username: ysinx
 #   instance: example.com
 
 
