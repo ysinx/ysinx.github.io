@@ -1,0 +1,5 @@
+title: Your Blog Title
+description: Your blog description
+theme: minima
+markdown: kramdown
+permalink: /posts/:title/ 
